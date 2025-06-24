@@ -7,4 +7,4 @@ services:
       - 'POSTGRESQL_ROOT_PASSWORD=verysecret'
       - 'POSTGRESQL_USER=myuser'
     ports:
-      - '3306'
+      - '5432'
